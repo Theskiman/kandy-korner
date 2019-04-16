@@ -1,0 +1,25 @@
+    
+{
+    "employees":  [
+        { "id": 1, "name": "Jessica Younker" },
+        { "id": 2, "name": "Jordan Nelson" },
+        { "id": 3, "name": "Zoe LeBlanc" },
+        { "id": 4, "name": "Blaise Roberts" }
+    ],
+    
+    "locations": [
+        { "id": 1, "name": "Willy Wonkas", "address": "500 Circle Way" },
+        { "id": 2, "name": "Josh's Candyland", "address": "10101 Binary Court" }
+    ],
+    "candyTypes": [
+        {"id": 1, "name": "chocolate"},
+        {"id": 2, "name": "hard"}
+    ],
+
+    "candies": [
+        { "id": 1, "name": "Gobstoppers", "candyTypeId": 2},
+        { "id": 2, "name": "Snickers", "candyTypeId": 1 },
+        { "id": 3, "name": "Tootsie-Pop", "candyTypeId": 2 },
+        { "id": 4, "name": "Twix", "candyTypeId": 1 }
+    ]
+}
